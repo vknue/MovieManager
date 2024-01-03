@@ -1,0 +1,13 @@
+valonnue\javaproject\dao\sql\SqlRepository$DatabaseConstants.class
+valonnue\javaproject\dao\MovieRepository.class
+valonnue\javaproject\dao\sql\DataSourceSingleton.class
+valonnue\javaproject\Models\Director.class
+valonnue\javaproject\dao\RelationshipRepository.class
+valonnue\javaproject\dao\sql\SqlRepository.class
+valonnue\javaproject\dao\UserRepository.class
+valonnue\javaproject\dao\DatabaseRepository.class
+valonnue\javaproject\Models\Movie.class
+valonnue\javaproject\Models\Actor.class
+valonnue\javaproject\dao\ActorRepository.class
+valonnue\javaproject\Models\User.class
+valonnue\javaproject\dao\DirectorRepository.class

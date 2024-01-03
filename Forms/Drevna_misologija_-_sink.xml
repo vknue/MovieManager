@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+    <id>1022</id>
+    <title>Drevna mišologija - sink</title>
+    <description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/22.3.2023_15_44_55_ARGONUTS_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Na daleki put u drevnu Grčku vodi nas mlada i pametna mišica Pattie koja je oduvijek željela postati heroina. Pattie, uz mačka Sama, starog heroja Jasona i Argonaute, kreće u odvažnu potragu kako bi stanovnicima Yolcosa pružila pomoć u izradi kipa grčkog boga mora - Posejdona. Yolcos krasi spomenik Zeusu, al</description>
+    <bannerPath>assets\abe41adb-c96f-4cf6-9e60-fc6dcb2a3d46.jpg</bannerPath>
+    <link>https://www.blitz-cinestar-bh.ba/cinestar-mostar/drevna-misologija-sink/8721/20230610</link>
+    <publishedDate>2023-06-09T00:00:00+02:00</publishedDate>
+    <showingDate>2023-06-10T00:00:00+02:00</showingDate>
+    <actors/>
+    <directors>
+        <director>
+            <id>139</id>
+            <fullName>David Alaux</fullName>
+        </director>
+        <director>
+            <id>140</id>
+            <fullName>Eric Tosti</fullName>
+        </director>
+        <director>
+            <id>141</id>
+            <fullName>Jean-Francois Tosti</fullName>
+        </director>
+    </directors>
+</movie>

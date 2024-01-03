@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+    <id>1078</id>
+    <title>The Flash</title>
+    <description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/26.4.2023_12_05_37_Flash_HR_Main.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Omiljeni član Lige pravde, The Flash, ovog ljeta dobiva svoj prvi samostalni film, u režiji Andyja Muschiettija, s Ezrom Millerom koji će ponoviti svoju kultnu ulogu vodećeg DC heroja. Da nas očekuje prava ljetna akcijska poslastica dokazuje i činjenica da će u novom film veliku ulogu imati i po mnogima na</description>
+    <bannerPath>assets\119435b5-86bb-41b4-82b1-4fae81e6f178.jpg</bannerPath>
+    <link>https://www.blitz-cinestar-bh.ba/cinestar-mostar/the-flash/8662/20230614</link>
+    <publishedDate>2023-06-13T00:00:00+02:00</publishedDate>
+    <showingDate>2023-06-14T00:00:00+02:00</showingDate>
+    <actors>
+        <actor>
+            <id>86</id>
+            <fullName>Ben Affleck</fullName>
+        </actor>
+        <actor>
+            <id>121</id>
+            <fullName>Ezra Miller</fullName>
+        </actor>
+        <actor>
+            <id>122</id>
+            <fullName>Michael Keaton</fullName>
+        </actor>
+        <actor>
+            <id>123</id>
+            <fullName>Sasha Calle</fullName>
+        </actor>
+        <actor>
+            <id>124</id>
+            <fullName>Kiersey Clemons</fullName>
+        </actor>
+        <actor>
+            <id>125</id>
+            <fullName>Antje Traue</fullName>
+        </actor>
+        <actor>
+            <id>126</id>
+            <fullName>Michael Shannon</fullName>
+        </actor>
+    </actors>
+    <directors>
+        <director>
+            <id>156</id>
+            <fullName>Andy Muschietti</fullName>
+        </director>
+    </directors>
+</movie>
